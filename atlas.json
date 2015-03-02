@@ -1,7 +1,9 @@
 {
   "files": [
     "cover.html",
-    "chapter01.html"
+    "toc.html",
+    "chapter01.html",
+    "ix.html"
   ],
   "formats": {
     "pdf": {
@@ -11,7 +13,11 @@
     },
     "epub": {},
     "mobi": {},
-    "html": {}
+    "html": {
+      "version": "web",
+      "toc": true,
+      "index": true
+    }
   },
   "theme": "https://github.com/oreillymedia/atlas-theme-sample.git",
   "title": "Alice's Adventures In Wonderland"
