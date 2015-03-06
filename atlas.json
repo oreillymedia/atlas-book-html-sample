@@ -3,7 +3,8 @@
     "cover.html",
     "toc.html",
     "chapter01.html",
-    "ix.html"
+    "ix.html",
+    "bad.html"
   ],
   "formats": {
     "pdf": {
